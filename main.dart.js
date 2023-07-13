@@ -79256,7 +79256,7 @@ q=A.bI(15)
 p=j.d
 o=j.e
 n=A.ac(o).i("al<1,iI<u>>")
-p=A.bx(A.alg(B.DR,B.j,i,0,A.at(new A.al(o,new A.a9Z(),n),!0,n.i("bA.E")),new A.aa_(j),p,t.N),50,i)
+p=A.bx(A.alg(B.E_,B.j,i,0,A.at(new A.al(o,new A.a9Z(),n),!0,n.i("bA.E")),new A.aa_(j),p,t.N),50,i)
 o=j.d==="HDFC"?new A.aR(A.bI(10),new A.bl(new A.A(h),4,B.M,-1)):i
 o=A.e2(i,A.ct(A.bx(A.bf(A.a([new A.aF(B.c8,A.f6("assets/hdfc.png",i,i,i),i),B.SR,B.cf],f),B.n,B.z,B.k),i,68),i,4,o),B.Q,!1,i,i,i,i,i,i,i,i,i,i,i,i,i,i,new A.aa1(j),i,i,i,i,i,i)
 n=j.d==="ICICI"?new A.aR(A.bI(10),new A.bl(new A.A(h),4,B.M,-1)):i
@@ -79409,9 +79409,9 @@ m=A.jy(A.a([A.nR(B.ca,n),A.bx(n,n,15)],l),m,B.bG)
 s=A.pI(B.cz,A.a([A.du(B.cN),A.du(B.cP),A.du(B.cQ)],t.Ae))
 r=A.bv(B.Fj,B.n,B.R,B.k)
 q=A.bI(15)
-q=A.ct(new A.aF(B.T,A.bf(A.a([B.RZ,B.q,A.hi(!1,B.E_,"Amit Kumar",1,!0),B.q,A.hi(!1,B.DQ,"AAAAA000A",1,!0),B.q,A.hi(!1,B.E1,"Rita Ramesh",1,!0),B.q,A.hi(!1,B.DZ,"01/01/1992",1,!0),B.q,A.hi(!1,B.DS,"Male",1,!0),B.q],l),B.aJ,B.z,B.k),n),n,5,new A.aR(q,B.m))
+q=A.ct(new A.aF(B.T,A.bf(A.a([B.RZ,B.q,A.hi(!1,B.DZ,"Amit Kumar",1,!0),B.q,A.hi(!1,B.DQ,"AAAAA000A",1,!0),B.q,A.hi(!1,B.E1,"Rita Ramesh",1,!0),B.q,A.hi(!1,B.DY,"01/01/1992",1,!0),B.q,A.hi(!1,B.DR,"Male",1,!0),B.q],l),B.aJ,B.z,B.k),n),n,5,new A.aR(q,B.m))
 p=A.bI(15)
-p=A.ct(new A.aF(B.T,A.bf(A.a([B.RP,B.q,A.hi(!1,B.DY," House No.- 123 Sector- 10 Vasant Vihar, Delhi, 110011",3,!0),B.q,A.hi(!1,B.DU,"helloamitXX@gmail.com",1,!0),B.q,B.fm,B.q,A.bv(A.a([A.vf(new A.aaY(o),o.d),B.k1,B.RQ],l),B.n,B.z,B.k),B.q,A.bv(A.a([A.vf(new A.aaZ(o),o.e),B.k1,B.Di],l),B.n,B.z,B.k)],l),B.aJ,B.z,B.k),n),n,5,new A.aR(p,B.m))
+p=A.ct(new A.aF(B.T,A.bf(A.a([B.RP,B.q,A.hi(!1,B.DX," House No.- 123 Sector- 10 Vasant Vihar, Delhi, 110011",3,!0),B.q,A.hi(!1,B.DT,"helloamitXX@gmail.com",1,!0),B.q,B.fm,B.q,A.bv(A.a([A.vf(new A.aaY(o),o.d),B.k1,B.RQ],l),B.n,B.z,B.k),B.q,A.bv(A.a([A.vf(new A.aaZ(o),o.e),B.k1,B.Di],l),B.n,B.z,B.k)],l),B.aJ,B.z,B.k),n),n,5,new A.aR(p,B.m))
 return A.i7(m,n,A.ib(new A.aF(B.T,A.bf(A.a([s,B.eN,B.RM,B.q,r,B.aX,B.MK,B.ce,B.Se,B.q,q,B.Mx,B.SN,B.q,p,B.q,A.df(n,A.h2(B.cO,o.d===!1||o.e===!1?n:new A.ab_(o,a)),n,n,n,n,n,n,1/0)],l),B.be,B.bi,B.k),n)))}}
 A.aaX.prototype={
 $0(){return A.cv(this.a,!1).cv()},
@@ -79434,7 +79434,7 @@ A.ab_.prototype={
 $0(){A.ano(new A.aaU(this.a),this.b,B.jK,t.H)},
 $S:0}
 A.aaU.prototype={
-$1(a){var s=null,r=A.hi(!1,B.DX,s,1,!1),q=A.fq(new A.db(B.c3,s,s,A.df(s,A.h2(B.cO,new A.aaS(a)),s,s,s,s,s,s,1/0),s),s,s),p=this.a.d===!1
+$1(a){var s=null,r=A.hi(!1,B.DW,s,1,!1),q=A.fq(new A.db(B.c3,s,s,A.df(s,A.h2(B.cO,new A.aaS(a)),s,s,s,s,s,s,1/0),s),s,s),p=this.a.d===!1
 return A.bx(A.fq(new A.aF(B.CX,A.bf(A.a([B.SA,B.q,B.RA,B.q,r,B.q,q,B.q,A.a87(B.SH,p&&p?s:new A.aaT(),s)],t.p),B.n,B.db,B.dc),s),s,s),270,s)},
 $S:82}
 A.aaS.prototype={
@@ -79490,7 +79490,7 @@ m=n.i("bA.E")
 l=t.N
 p=A.alg(B.DO,B.j,B.dT,24,A.at(new A.al(A.a(["Salaried","Self Employed"],o),new A.acK(),n),!0,m),new A.acL(j),p,l)
 k=j.e
-return A.i7(h,i,A.ib(new A.aF(B.T,A.bf(A.a([s,B.q,r,B.aX,B.ML,B.q,A.ct(new A.aF(B.T,A.bf(A.a([B.Rp,B.q,p,B.q,A.alg(B.DV,B.j,B.dT,24,A.at(new A.al(A.a(["EY","Placebo","Other"],o),new A.acM(),n),!0,m),new A.acN(j),k,l),B.q,A.hi(!1,B.DW,"Tesseract PVT. LTD.",1,!1),B.q,A.hi(!1,B.DN,"2,50,000",1,!1),B.q,A.hi(!1,B.E0,"amit.k@placebo.in",1,!1),B.q],g),B.aJ,B.z,B.k),i),i,5,new A.aR(q,B.m)),A.bx(i,32,i),B.q,A.df(i,A.h2(B.cO,new A.acO(a)),i,i,i,i,i,i,1/0)],g),B.be,B.bi,B.k),i)))}}
+return A.i7(h,i,A.ib(new A.aF(B.T,A.bf(A.a([s,B.q,r,B.aX,B.ML,B.q,A.ct(new A.aF(B.T,A.bf(A.a([B.Rp,B.q,p,B.q,A.alg(B.DU,B.j,B.dT,24,A.at(new A.al(A.a(["EY","Placebo","Other"],o),new A.acM(),n),!0,m),new A.acN(j),k,l),B.q,A.hi(!1,B.DV,"Tesseract PVT. LTD.",1,!1),B.q,A.hi(!1,B.DN,"2,50,000",1,!1),B.q,A.hi(!1,B.E0,"amit.k@placebo.in",1,!1),B.q],g),B.aJ,B.z,B.k),i),i,5,new A.aR(q,B.m)),A.bx(i,32,i),B.q,A.df(i,A.h2(B.cO,new A.acO(a)),i,i,i,i,i,i,1/0)],g),B.be,B.bi,B.k),i)))}}
 A.acJ.prototype={
 $0(){return A.cv(this.a,!1).cv()},
 $S:0}
@@ -79649,7 +79649,7 @@ o=A.jy(A.a([A.nR(B.ca,p),A.bx(p,p,15)],n),o,B.bG)
 s=A.pI(B.cz,A.a([A.du(B.cN),A.du(B.cP),A.du(B.cQ)],t.Ae))
 r=A.bv(B.mR,B.n,B.R,B.k)
 q=A.bI(15)
-return A.i7(o,p,A.ib(new A.aF(B.T,A.bf(A.a([s,B.eN,B.q,r,B.aX,B.yd,B.ce,B.yA,B.q,A.ct(new A.aF(B.T,A.bf(A.a([B.RF,B.q,A.hi(!1,B.DT,p,1,!1),B.q,A.hi(!1,B.DP,p,1,!1),B.q,B.K0],n),B.aJ,B.z,B.k),p),p,5,new A.aR(q,B.m)),B.hs,A.fq(new A.db(B.c3,p,p,A.df(p,A.h2(B.cO,new A.aeF(a)),p,p,p,p,p,p,1/0),p),p,p)],n),B.be,B.bi,B.k),p)))}}
+return A.i7(o,p,A.ib(new A.aF(B.T,A.bf(A.a([s,B.eN,B.q,r,B.aX,B.yd,B.ce,B.yA,B.q,A.ct(new A.aF(B.T,A.bf(A.a([B.RF,B.q,A.hi(!1,B.DS,p,1,!1),B.q,A.hi(!1,B.DP,p,1,!1),B.q,B.K0],n),B.aJ,B.z,B.k),p),p,5,new A.aR(q,B.m)),B.hs,A.fq(new A.db(B.c3,p,p,A.df(p,A.h2(B.cO,new A.aeF(a)),p,p,p,p,p,p,1/0),p),p,p)],n),B.be,B.bi,B.k),p)))}}
 A.aeE.prototype={
 $0(){return A.cv(this.a,!1).cv()},
 $S:0}
@@ -82926,22 +82926,22 @@ B.DN=new A.dg(null,null,null,"Your monthly income",B.cM,null,null,null,null,null
 B.DO=new A.dg(null,null,null,"Income Type",B.cM,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,B.j,null,null,null,B.ah,null,null,B.ah,null,!0,null,null,null)
 B.DP=new A.dg(null,null,null,"Mobile Number",null,null,null,null,null,"Enter Mobile Number",null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,B.bc,null,null,null,null,null,null,null,B.ah,!0,null,null,null)
 B.DQ=new A.dg(null,null,null,"PAN",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,B.bc,null,null,null,null,null,null,null,B.ah,!0,null,null,null)
-B.dR=new A.A(4293491242)
-B.DC=new A.h6(B.mG,null,B.dR,null,null)
-B.DR=new A.dg(null,null,null,"Income Type",B.cM,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,B.DC,null,null,null,null,null,null,null,null,!0,B.j,null,null,null,B.ah,null,null,B.ah,null,!0,null,null,null)
 B.W3=new A.dg(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null)
-B.DS=new A.dg(null,null,null,"Gender",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,B.bc,null,null,null,null,null,null,null,B.ah,!0,null,null,null)
-B.DT=new A.dg(null,null,null,"Your Name",null,null,null,null,null,"Enter Your Name",null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,B.bc,null,null,null,null,null,null,null,B.ah,!0,null,null,null)
-B.DU=new A.dg(null,null,null,"Email Address",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,B.bc,null,null,null,null,null,null,null,B.ah,!0,null,null,null)
-B.DV=new A.dg(null,null,null,"Choose Company Name",B.cM,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,B.j,null,null,null,B.ah,null,null,B.ah,null,!0,null,null,null)
-B.DW=new A.dg(null,null,null,"Enter company name",B.cM,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,B.j,null,null,null,null,null,null,null,B.ah,!0,null,null,null)
+B.DR=new A.dg(null,null,null,"Gender",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,B.bc,null,null,null,null,null,null,null,B.ah,!0,null,null,null)
+B.DS=new A.dg(null,null,null,"Your Name",null,null,null,null,null,"Enter Your Name",null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,B.bc,null,null,null,null,null,null,null,B.ah,!0,null,null,null)
+B.DT=new A.dg(null,null,null,"Email Address",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,B.bc,null,null,null,null,null,null,null,B.ah,!0,null,null,null)
+B.DU=new A.dg(null,null,null,"Choose Company Name",B.cM,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,B.j,null,null,null,B.ah,null,null,B.ah,null,!0,null,null,null)
+B.DV=new A.dg(null,null,null,"Enter company name",B.cM,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,B.j,null,null,null,null,null,null,null,B.ah,!0,null,null,null)
+B.dR=new A.A(4293491242)
 B.bv=new A.h3(6)
 B.yv=new A.o(!0,B.dR,null,null,null,null,13,B.bv,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.RI=new A.V("Resend OTP",null,B.yv,null,null,null,null,null,null)
-B.DX=new A.dg(null,null,null,"Enter OTP",B.cM,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,B.RI,null,null,null,null,null,null,null,!0,B.j,null,null,null,null,null,null,null,B.ah,!0,null,null,null)
-B.DY=new A.dg(null,null,null,"Communication Address",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,B.bc,null,null,null,null,null,null,null,B.ah,!0,null,null,null)
-B.DZ=new A.dg(null,null,null,"DOB",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,B.bc,null,null,null,null,null,null,null,B.ah,!0,null,null,null)
-B.E_=new A.dg(null,null,null,"Name",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,B.bc,null,null,null,null,null,null,null,B.ah,!0,null,null,null)
+B.DW=new A.dg(null,null,null,"Enter OTP",B.cM,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,B.RI,null,null,null,null,null,null,null,!0,B.j,null,null,null,null,null,null,null,B.ah,!0,null,null,null)
+B.DX=new A.dg(null,null,null,"Communication Address",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,B.bc,null,null,null,null,null,null,null,B.ah,!0,null,null,null)
+B.DY=new A.dg(null,null,null,"DOB",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,B.bc,null,null,null,null,null,null,null,B.ah,!0,null,null,null)
+B.DZ=new A.dg(null,null,null,"Name",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,B.bc,null,null,null,null,null,null,null,B.ah,!0,null,null,null)
+B.DC=new A.h6(B.mG,null,B.dR,null,null)
+B.E_=new A.dg(null,null,null,"Choose bank",B.cM,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,B.DC,null,null,null,null,null,null,null,null,!0,B.j,null,null,null,B.ah,null,null,B.ah,null,!0,null,null,null)
 B.E0=new A.dg(null,null,null,"Your official email id",B.cM,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,B.j,null,null,null,null,null,null,null,B.ah,!0,null,null,null)
 B.E1=new A.dg(null,null,null,"Mother's Name",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,B.bc,null,null,null,null,null,null,null,B.ah,!0,null,null,null)
 B.E5=new A.e8(0,0.1,B.V)
